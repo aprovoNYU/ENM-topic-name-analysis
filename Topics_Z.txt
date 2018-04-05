@@ -1,0 +1,1284 @@
+{
+  "rows" : [
+    {
+      "basket - id" : 32202,
+      "basket - display_name" : "Zabriskie Point",
+      "FAST URL" : "http://id.worldcat.org/fast/1796589",
+      "LOC URL" : "http://id.loc.gov/authorities/names/no2006091704",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q139078",
+      "VIAF URL" : "http://viaf.org/viaf/181420657"
+    },
+    {
+      "basket - id" : 41348,
+      "basket - display_name" : "Zachary, Caroline",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 16211,
+      "basket - display_name" : "Zack, Naomi",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n92115628",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q16199936",
+      "VIAF URL" : "http://viaf.org/viaf/24697569"
+    },
+    {
+      "basket - id" : 35619,
+      "basket - display_name" : "Zacks, Ellie",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 28554,
+      "basket - display_name" : "Zaddik",
+      "FAST URL" : "http://id.worldcat.org/fast/1183981",
+      "LOC URL" : "http://id.loc.gov/authorities/subjects/sh85149542",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q1432036",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 27717,
+      "basket - display_name" : "Zadeh, Lofti",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q92767",
+      "VIAF URL" : "http://viaf.org/viaf/59157256"
+    },
+    {
+      "basket - id" : 18171,
+      "basket - display_name" : "Zadok ha\u2013Kohen",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q8064174",
+      "VIAF URL" : "http://viaf.org/viaf/107640988"
+    },
+    {
+      "basket - id" : 18943,
+      "basket - display_name" : "Zadravecz, Istvan",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/no2016112748",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q1466444",
+      "VIAF URL" : "http://viaf.org/viaf/89441524"
+    },
+    {
+      "basket - id" : 26103,
+      "basket - display_name" : "Zagorin, Perez",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n79131895",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q7167918",
+      "VIAF URL" : "http://viaf.org/viaf/7456442"
+    },
+    {
+      "basket - id" : 41897,
+      "basket - display_name" : "Zagreb",
+      "FAST URL" : "http://id.worldcat.org/fast/1206551",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n79116205",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q1435",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 41898,
+      "basket - display_name" : "Zagreb -- cluster bomb shelling",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 4369,
+      "basket - display_name" : "Zahm, Barbara -- The Last Graduation",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 21266,
+      "basket - display_name" : "Zaibatsu, disintegration of",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 19706,
+      "basket - display_name" : "Zaitsev, Viacheslav",
+      "FAST URL" : "http://id.worldcat.org/fast/182746",
+      "LOC URL" : "http://id.loc.gov/authorities/names/no88005436",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/35919242"
+    },
+    {
+      "basket - id" : 18944,
+      "basket - display_name" : "Zakany, Gyula",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 18945,
+      "basket - display_name" : "Zakar, Tamas",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n97006925",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/58358041"
+    },
+    {
+      "basket - id" : 40149,
+      "basket - display_name" : "Zaks, Stan",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 18946,
+      "basket - display_name" : "Zala (province)",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q673186",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 40150,
+      "basket - display_name" : "Zalkind, Norman",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 24633,
+      "basket - display_name" : "Zalk, Marvin",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 6350,
+      "basket - display_name" : "Zaloom, Caitlin",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n2006005201",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/71724950"
+    },
+    {
+      "basket - id" : 23837,
+      "basket - display_name" : "Zamenhof, Mark",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q2409902",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 41899,
+      "basket - display_name" : "Zametica, Jovan",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 19707,
+      "basket - display_name" : "Zamiatin, Evgenii",
+      "FAST URL" : "http://id.worldcat.org/fast/4586",
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q204868",
+      "VIAF URL" : "http://viaf.org/viaf/7398660"
+    },
+    {
+      "basket - id" : 46043,
+      "basket - display_name" : "Zamir, Tzachi",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n2006027162",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/64336835"
+    },
+    {
+      "basket - id" : 23838,
+      "basket - display_name" : "Zamosc, David",
+      "FAST URL" : "http://id.worldcat.org/fast/301273",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n92030989",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/53341901"
+    },
+    {
+      "basket - id" : 18947,
+      "basket - display_name" : "Zandberg, Moshe",
+      "FAST URL" : "http://id.worldcat.org/fast/1928793",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n86869310",
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 28275,
+      "basket - display_name" : "Zangwill, Israel",
+      "FAST URL" : "http://id.worldcat.org/fast/35390",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n79054630",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q113681",
+      "VIAF URL" : "http://viaf.org/viaf/56617927"
+    },
+    {
+      "basket - id" : 6870,
+      "basket - display_name" : "Zangwill, Israel, The Melting Pot",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/195847410"
+    },
+    {
+      "basket - id" : 6871,
+      "basket - display_name" : "Zapatista Army of National Liberation",
+      "FAST URL" : "http://id.worldcat.org/fast/699014",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n94070361",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q188590",
+      "VIAF URL" : "http://viaf.org/viaf/122204186"
+    },
+    {
+      "basket - id" : 31164,
+      "basket - display_name" : "Zarembka, Arlene",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n88179415",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/65565901"
+    },
+    {
+      "basket - id" : 19708,
+      "basket - display_name" : "Zaslavskaia, Tatiana",
+      "FAST URL" : "http://id.worldcat.org/fast/75181",
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q461302",
+      "VIAF URL" : "http://viaf.org/viaf/13234798"
+    },
+    {
+      "basket - id" : 8020,
+      "basket - display_name" : "Zasulich, Vera",
+      "FAST URL" : "http://id.worldcat.org/fast/1801819",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n79072775",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q234980",
+      "VIAF URL" : "http://viaf.org/viaf/24593170"
+    },
+    {
+      "basket - id" : 15323,
+      "basket - display_name" : "Zavarzadeh, Mas'ud",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/27112994"
+    },
+    {
+      "basket - id" : 9981,
+      "basket - display_name" : "ZDNet",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q2457578",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 41349,
+      "basket - display_name" : "zeal",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 21267,
+      "basket - display_name" : "Zeckhauser, Richard",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n82080130",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q7330150",
+      "VIAF URL" : "http://viaf.org/viaf/107484086"
+    },
+    {
+      "basket - id" : 35620,
+      "basket - display_name" : "Zeck, Shari",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 23839,
+      "basket - display_name" : "Zederbaum, Alexander Zvi",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 46044,
+      "basket - display_name" : "Zeeman, Nicolette",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n87939060",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/109943456"
+    },
+    {
+      "basket - id" : 6351,
+      "basket - display_name" : "Zehle, Soenke",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/no2016162880",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/4808148209310800460000"
+    },
+    {
+      "basket - id" : 35621,
+      "basket - display_name" : "Zeig, Sande",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n80032067",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q7416060",
+      "VIAF URL" : "http://viaf.org/viaf/39498812"
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 41900,
+      "basket - display_name" : "Zelenbaba, Suzana",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 19709,
+      "basket - display_name" : "Zelenin, Dmitrii",
+      "FAST URL" : "http://id.worldcat.org/fast/151881",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n85086178",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q982835",
+      "VIAF URL" : "http://viaf.org/viaf/56693970"
+    },
+    {
+      "basket - id" : 8576,
+      "basket - display_name" : "Zell, Sam",
+      "FAST URL" : "http://id.worldcat.org/fast/1930359",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n2009061827",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q363124",
+      "VIAF URL" : "http://viaf.org/viaf/100696331"
+    },
+    {
+      "basket - id" : 19710,
+      "basket - display_name" : "zemliaki",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 19711,
+      "basket - display_name" : "Zen'kovskii, Sergei",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/56628893"
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 19712,
+      "basket - display_name" : "Zenova, N.",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n92067115",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/37334484"
+    },
+    {
+      "basket - id" : 31165,
+      "basket - display_name" : "Zephaniah",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q1761359",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 10759,
+      "basket - display_name" : "Zero Dark Thirty",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/no2013021406",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q152531",
+      "VIAF URL" : "http://viaf.org/viaf/296166415"
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 6352,
+      "basket - display_name" : "Zero Dollar Laptop",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 6353,
+      "basket - display_name" : "zero waste",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 18172,
+      "basket - display_name" : "Zerubabbel",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 9982,
+      "basket - display_name" : "Zhang, Bin",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 2109,
+      "basket - display_name" : "Zhang Dali",
+      "FAST URL" : "http://id.worldcat.org/fast/456758",
+      "LOC URL" : "http://id.loc.gov/authorities/names/no00099481",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q978114",
+      "VIAF URL" : "http://viaf.org/viaf/14323829"
+    },
+    {
+      "basket - id" : 2110,
+      "basket - display_name" : "Zhang Yimou",
+      "FAST URL" : "http://id.worldcat.org/fast/273353",
+      "LOC URL" : "http://id.loc.gov/authorities/names/nr90013309",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q55430",
+      "VIAF URL" : "http://viaf.org/viaf/111742197"
+    },
+    {
+      "basket - id" : 2111,
+      "basket - display_name" : "Zhang Ziyi",
+      "FAST URL" : "http://id.worldcat.org/fast/1599933",
+      "LOC URL" : "http://id.loc.gov/authorities/names/no2004114368",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q180852",
+      "VIAF URL" : "http://viaf.org/viaf/85555134"
+    },
+    {
+      "basket - id" : 23840,
+      "basket - display_name" : "Zhitlovsky, Chaim",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n85086208",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q982059",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 19713,
+      "basket - display_name" : "Zhivago, Yurii (Pasternak)",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 19714,
+      "basket - display_name" : "Zhivov, Viktor Markovich",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/nr91038869",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q4179849",
+      "VIAF URL" : "http://viaf.org/viaf/79203890"
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 19715,
+      "basket - display_name" : "Zholkovskii, Aleksandr",
+      "FAST URL" : "http://id.worldcat.org/fast/1466728",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n85101472",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/94588826"
+    },
+    {
+      "basket - id" : 19716,
+      "basket - display_name" : "Zhukhovitskii, Leonid",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n82041037",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/60422274"
+    },
+    {
+      "basket - id" : 18948,
+      "basket - display_name" : "Zichy, Janos",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q1467332",
+      "VIAF URL" : "http://viaf.org/viaf/316738007"
+    },
+    {
+      "basket - id" : 18949,
+      "basket - display_name" : "Zichy, Nandor",
+      "FAST URL" : "http://id.worldcat.org/fast/414163",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n98022000",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q1467345",
+      "VIAF URL" : "http://viaf.org/viaf/60854764"
+    },
+    {
+      "basket - id" : 18950,
+      "basket - display_name" : "Zicsy, Gyula",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 33823,
+      "basket - display_name" : "Zidovudine, description",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 6354,
+      "basket - display_name" : "Zielinksi, Siegfried",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/117144782697924432401"
+    },
+    {
+      "basket - id" : 34449,
+      "basket - display_name" : "Ziff, Joel",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n87808609",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/67984349"
+    },
+    {
+      "basket - id" : 26308,
+      "basket - display_name" : "Zigler, Edward",
+      "FAST URL" : "http://id.worldcat.org/fast/35832",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n79056264",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q19597055",
+      "VIAF URL" : "http://viaf.org/viaf/106063030"
+    },
+    {
+      "basket - id" : 35622,
+      "basket - display_name" : "Zijderveld, Anton C.",
+      "FAST URL" : "http://id.worldcat.org/fast/76715",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n81084529",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q383190",
+      "VIAF URL" : "http://viaf.org/viaf/17190029"
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 14581,
+      "basket - display_name" : "Zilboorg, Gregory",
+      "FAST URL" : "http://id.worldcat.org/fast/4148",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n50013545",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q1545432",
+      "VIAF URL" : "http://viaf.org/viaf/29624929"
+    },
+    {
+      "basket - id" : 33106,
+      "basket - display_name" : "Zilly, Judge Thomas S.",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 9983,
+      "basket - display_name" : "Zimmerman, Ann",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/4398939"
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 10760,
+      "basket - display_name" : "Zimmerman, Arely",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/nb2016013548",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/346146936684513781307"
+    },
+    {
+      "basket - id" : 35623,
+      "basket - display_name" : "Zimmerman, B.",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q28018695",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 40151,
+      "basket - display_name" : "Zimmerman, John",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 41902,
+      "basket - display_name" : "Zimmerman, Warren (U.S. ambassador to Yugoslavia)",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q4771904",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 29503,
+      "basket - display_name" : "Zina Ordinance",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 38760,
+      "basket - display_name" : "Zinik, Gary",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 43816,
+      "basket - display_name" : "Zinn, Howard",
+      "FAST URL" : "http://id.worldcat.org/fast/1734796",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n79059761",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q119546",
+      "VIAF URL" : "http://viaf.org/viaf/106986472"
+    },
+    {
+      "basket - id" : 35624,
+      "basket - display_name" : "Zinnser, Judith",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 19717,
+      "basket - display_name" : "Zinoviev, Aleksandr",
+      "FAST URL" : "http://id.worldcat.org/fast/28437",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n78089051",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q449538",
+      "VIAF URL" : "http://viaf.org/viaf/108124917"
+    },
+    {
+      "basket - id" : 1583,
+      "basket - display_name" : "Zinzins de l'Espace, Les",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q2487639",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 19718,
+      "basket - display_name" : "Ziolkowski, Margaret",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n88016001",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/14808293"
+    },
+    {
+      "basket - id" : 23842,
+      "basket - display_name" : "Zionism",
+      "FAST URL" : "http://id.worldcat.org/fast/1184468",
+      "LOC URL" : "http://id.loc.gov/authorities/subjects/sh85149886",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q42388",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 23850,
+      "basket - display_name" : "Zionism and the Arabs",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 23843,
+      "basket - display_name" : "Zionism, Christian support of",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 34450,
+      "basket - display_name" : "Zionism -- of Jewish feminists",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 34451,
+      "basket - display_name" : "Zionism -- of Jewish New Left",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 23620,
+      "basket - display_name" : "Zionism, varieties of",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 23844,
+      "basket - display_name" : "Zionism, varieties of -- Labor",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 23845,
+      "basket - display_name" : "Zionism, varieties of -- Political",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 23846,
+      "basket - display_name" : "Zionism, varieties of -- Religious",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 23847,
+      "basket - display_name" : "Zionism, varieties of -- Revisionist",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 23848,
+      "basket - display_name" : "Zionism, varieties of -- Socialist",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 23849,
+      "basket - display_name" : "Zionism, varieties of -- Spiritual or Cultural",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 23851,
+      "basket - display_name" : "Zionist Bank",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 23420,
+      "basket - display_name" : "Zionist Organization of America (ZOA)",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n50071085",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q205366",
+      "VIAF URL" : "http://viaf.org/viaf/147248484"
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 14582,
+      "basket - display_name" : "Zipes, Jack",
+      "FAST URL" : "http://id.worldcat.org/fast/1734324",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n80017606",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q165578",
+      "VIAF URL" : "http://viaf.org/viaf/109329562"
+    },
+    {
+      "basket - id" : 1584,
+      "basket - display_name" : "Zipper",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 24634,
+      "basket - display_name" : "Zips",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q8072681",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 24635,
+      "basket - display_name" : "Zito, Benny",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 9984,
+      "basket - display_name" : "Zittrain, Jonathan",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n2004100731",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q6274894",
+      "VIAF URL" : "http://viaf.org/viaf/85301453"
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 19719,
+      "basket - display_name" : "Zlatovratskii, Nikolai Nikolaevich",
+      "FAST URL" : "http://id.worldcat.org/fast/247970",
+      "LOC URL" : "http://id.loc.gov/authorities/names/nr89003611",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/310666809"
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 26104,
+      "basket - display_name" : "Zobrest v. Catalina Foothills School District",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q8073200",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 18173,
+      "basket - display_name" : "Zohar",
+      "FAST URL" : "http://id.worldcat.org/fast/1357178",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n85368564",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q205388",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 28555,
+      "basket - display_name" : "Zohar -- authorship",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 28556,
+      "basket - display_name" : "Zohar -- composition",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 28557,
+      "basket - display_name" : "Zohar -- divine world structure",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 28558,
+      "basket - display_name" : "Zohar -- good and evil",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 28559,
+      "basket - display_name" : "Zohar -- Man's role",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 28560,
+      "basket - display_name" : "Zohar -- pseudepigraphical nature",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 28561,
+      "basket - display_name" : "Zohar -- sexual symbolism",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 27718,
+      "basket - display_name" : "Zola, Emile",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n79026785",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q504",
+      "VIAF URL" : "http://viaf.org/viaf/32004502"
+    },
+    {
+      "basket - id" : 18951,
+      "basket - display_name" : "Zoldi, Marton",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q20438446",
+      "VIAF URL" : "http://viaf.org/viaf/121489553"
+    },
+    {
+      "basket - id" : 18174,
+      "basket - display_name" : "Zolkiev",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q864836",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 10762,
+      "basket - display_name" : "Zombiecon",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 10761,
+      "basket - display_name" : "Zombie fandom",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 44509,
+      "basket - display_name" : "zombie/zombies",
+      "FAST URL" : "http://id.worldcat.org/fast/1184595",
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q9406",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 13957,
+      "basket - display_name" : "Zone of privacy",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 7454,
+      "basket - display_name" : "zone of proximal development (ZPD), learning in",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 44777,
+      "basket - display_name" : "zoning",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/subjects/sh85149959",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q702232",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 43817,
+      "basket - display_name" : "zoning laws",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 43818,
+      "basket - display_name" : "zoning laws -- restrictive",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 44779,
+      "basket - display_name" : "Zopadpatti Bachao Samyukta Kruti Samiti (Joint Action Committee to Save the Slum Dwellers)",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 26105,
+      "basket - display_name" : "Zorach v. Clauson",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q8074306",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 19720,
+      "basket - display_name" : "Zorin, Nikolaĭ Vladimirovich",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n82139018",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/7805747"
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 1585,
+      "basket - display_name" : "Zorro",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 19721,
+      "basket - display_name" : "Zoshchenko, Mikhail",
+      "FAST URL" : "http://id.worldcat.org/fast/5332",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n50016893",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q360507",
+      "VIAF URL" : "http://viaf.org/viaf/44718"
+    },
+    {
+      "basket - id" : 19722,
+      "basket - display_name" : "Zosima (Dostoevsky)",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 9490,
+      "basket - display_name" : "Zotero, Digital Humanities Education",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 42419,
+      "basket - display_name" : "Z-Trip",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q3700448",
+      "VIAF URL" : "http://viaf.org/viaf/31732709"
+    },
+    {
+      "basket - id" : 10763,
+      "basket - display_name" : "Zuckerman, Ethan",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n2013015493",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q4451591",
+      "VIAF URL" : "http://viaf.org/viaf/298130235"
+    },
+    {
+      "basket - id" : 34452,
+      "basket - display_name" : "Zuckoff, Aviva Cantor",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n79026069",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/93729412"
+    },
+    {
+      "basket - id" : 10764,
+      "basket - display_name" : "Zukin, Cliff",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n83183859",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/64099684"
+    },
+    {
+      "basket - id" : 31166,
+      "basket - display_name" : "Zulick, Margaret",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/104148570347624310610"
+    },
+    {
+      "basket - id" : 1586,
+      "basket - display_name" : "Zulu Nation",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q228880",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 9985,
+      "basket - display_name" : "Zuniga, Markos Moulitsas",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n2005090978",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q1259349",
+      "VIAF URL" : "http://viaf.org/viaf/26479343"
+    },
+    {
+      "basket - id" : null,
+      "basket - display_name" : null,
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : null,
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 41350,
+      "basket - display_name" : "Zuni, the",
+      "FAST URL" : null,
+      "LOC URL" : null,
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q231317",
+      "VIAF URL" : null
+    },
+    {
+      "basket - id" : 23854,
+      "basket - display_name" : "Zunser, Eliakum",
+      "FAST URL" : "http://id.worldcat.org/fast/372171",
+      "LOC URL" : "http://id.loc.gov/authorities/names/nr96012110",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q1328946",
+      "VIAF URL" : "http://viaf.org/viaf/27914272"
+    },
+    {
+      "basket - id" : 18175,
+      "basket - display_name" : "Zunz, Leopold",
+      "FAST URL" : "http://id.worldcat.org/fast/168181",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n85182397",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q76998",
+      "VIAF URL" : "http://viaf.org/viaf/29659597"
+    },
+    {
+      "basket - id" : 22291,
+      "basket - display_name" : "Zwerdling, Alex",
+      "FAST URL" : null,
+      "LOC URL" : "http://id.loc.gov/authorities/names/n85124108",
+      "Wikidata URL" : null,
+      "VIAF URL" : "http://viaf.org/viaf/2499670"
+    },
+    {
+      "basket - id" : 25992,
+      "basket - display_name" : "Zwingli, Huldreich",
+      "FAST URL" : "http://id.worldcat.org/fast/44437",
+      "LOC URL" : "http://id.loc.gov/authorities/names/n79121329",
+      "Wikidata URL" : "https://www.wikidata.org/wiki/Q123034",
+      "VIAF URL" : "http://viaf.org/viaf/71399367"
+    }
+  ]
+}
